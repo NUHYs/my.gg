@@ -9,7 +9,7 @@ from tkinter import *
 from datetime import datetime
 import datetime
 
-api_key = 'RGAPI-0e0885f4-a30f-443f-a825-825a927545dd'
+api_key = ''
 
 option0 = {'font': (None, 16)}
 option1 = {'font': (None, 20)}
